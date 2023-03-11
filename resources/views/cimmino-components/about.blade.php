@@ -3,7 +3,7 @@
             <div class="container pt-1">
                     <div class="row d-flex justify-content-center">
                         <div class="col-lg-6 col-md-10 col-sm-12 bg-success  rounded"  data-aos="flip-left"  data-aos-duration="1100">
-                            <h2 class="text-white">About me</h2>
+                            <h2 class="text-white">About Me</h2>
                                 <lord-icon
                                     src="https://cdn.lordicon.com/vusrdugn.json"
                                     trigger="loop-on-hover"
