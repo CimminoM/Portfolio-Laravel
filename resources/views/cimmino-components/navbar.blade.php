@@ -20,7 +20,7 @@
                                 state="hover-jump"
                                 style="width:60px;height:60px">
                             </lord-icon> 
-                            About me</a>
+                            About Me</a>
                         </li>
                         <li><a href={{route('project')}} class="nav-link px-2 link-success fw-bold">
                             <lord-icon
