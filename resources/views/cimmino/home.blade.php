@@ -28,11 +28,15 @@
     <x-projects></x-projects>
 
 
+    {{-- Stack --}}
+    <x-stack>
+    </x-stack>
+
     {{-- Contact me --}}
     <x-contact>
     </x-contact>
 
-
+    
     {{-- Footer --}}
     <x-footer>
     </x-footer>
