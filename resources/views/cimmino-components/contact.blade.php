@@ -59,9 +59,6 @@
                                 
                             </div>
                         </div>
-                    </div>
-                    <!--Grid row-->
-                    <div class="row">
                         {{-- Grid Column --}}
                         <div class="text-center col-12 mb-3 mt-2">
                             <button type="submit" class="btn btn-success" >Send</button>
@@ -71,17 +68,17 @@
                 </form>
                 
             </div>
-            <!--Grid column-->
-            <div class="col-10 text-center">
-                <ul class="list-unstyled mb-1">
-                    <li><i class="fas fa-map-marker-alt fa-2x"></i>
-                        <p>Napoli,80024,Italia</p>
-                    </li>
-                    <li><i class="fas fa-envelope mt-4 fa-2x"></i>
-                        <p>cimminomicheleportfolio@gmail.com</p>
-                    </li>
-                </ul>
-            </div>
+                    <!--Grid column-->
+                    <div class="col-12 text-center">
+                        <ul class="list-unstyled mb-1">
+                            <li><i class="fas fa-map-marker-alt fa-2x"></i>
+                                <p>Napoli,80024,Italia</p>
+                            </li>
+                            <li><i class="fas fa-envelope mt-4 fa-2x"></i>
+                                <p>cimminomicheleportfolio@gmail.com</p>
+                            </li>
+                        </ul>
+                    </div>
         </div>
     </div>
 </section>
