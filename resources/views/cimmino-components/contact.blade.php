@@ -63,7 +63,7 @@
                     <!--Grid row-->
                     <div class="row">
                         {{-- Grid Column --}}
-                        <div class="text-center col-12 mb-2 mt-2">
+                        <div class="text-center col-12 mb-3 mt-2">
                             <button type="submit" class="btn btn-success" >Send</button>
                         </div>
                     </div>
@@ -72,13 +72,13 @@
                 
             </div>
             <!--Grid column-->
-            <div class="col-md-2 text-center">
-                <ul class="list-unstyled mb-0">
+            <div class="col-10 text-center">
+                <ul class="list-unstyled mb-1">
                     <li><i class="fas fa-map-marker-alt fa-2x"></i>
                         <p>Napoli,80024,Italia</p>
                     </li>
                     <li><i class="fas fa-envelope mt-4 fa-2x"></i>
-                        <p>michelecimminorosso52@gmail.com</p>
+                        <p>cimminomicheleportfolio@gmail.com</p>
                     </li>
                 </ul>
             </div>
